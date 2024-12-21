@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "notes": "发现新版本！",
+    "pub_date": "2024-12-21T00:00:00Z",
+    "platforms": {
+      "darwin-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5bEVXOE91KzRvZUVYUnJrSzFVa1Eya281Ti9wYmhOTGRtczFrQVJoR2VLa0FBQkFBQUFBQUFBQUFBQUlBQUFBQVZmc3lUbk1XbG9DWjlyV1pwMDJwdkZtV2N1Q2Zic0xSOEtHaDJabjZnaWVuQlMyblpVTXo1MzVYMFNXTEZCV1ZBaVgzcU5ReGFoUU5yN2FWQ1VvU1JPTDRURU5rVkhWRy8yNHprMXVKNjRaNkRFR09jckdYMnRsaGJ1bW5vKzhpVXVobjdvcVBNM009Cg==",
+        "url": "https://your-cos-bucket-url/app-v1.0.1.dmg"
+      },
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHJzaWduIGVuY3J5cHRlZCBzZWNyZXQga2V5ClJXUlRZMEl5bEVXOE91KzRvZUVYUnJrSzFVa1Eya281Ti9wYmhOTGRtczFrQVJoR2VLa0FBQkFBQUFBQUFBQUFBQUlBQUFBQVZmc3lUbk1XbG9DWjlyV1pwMDJwdkZtV2N1Q2Zic0xSOEtHaDJabjZnaWVuQlMyblpVTXo1MzVYMFNXTEZCV1ZBaVgzcU5ReGFoUU5yN2FWQ1VvU1JPTDRURU5rVkhWRy8yNHprMXVKNjRaNkRFR09jckdYMnRsaGJ1bW5vKzhpVXVobjdvcVBNM009Cg==",
+        "url": "https://your-cos-bucket-url/app-v1.0.1.exe"
+      }
+    }
+  }
